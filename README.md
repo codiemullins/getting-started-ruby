@@ -1,5 +1,4 @@
-getting-started-ruby
-====================
+# werkcer getting-started-ruby
 
 Ruby sample application for wercker leveraging the Sinatra microframework
 Wercker is a continuous delivery platform see: http://wercker.com
